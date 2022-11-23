@@ -1,1 +1,1 @@
-# AI-for-law-
+# AI-for-Law
